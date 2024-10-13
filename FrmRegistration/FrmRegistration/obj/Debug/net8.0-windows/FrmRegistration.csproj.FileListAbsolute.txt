@@ -1,0 +1,17 @@
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\bin\Debug\net8.0-windows\FrmRegistration.exe
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\bin\Debug\net8.0-windows\FrmRegistration.deps.json
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\bin\Debug\net8.0-windows\FrmRegistration.runtimeconfig.json
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\bin\Debug\net8.0-windows\FrmRegistration.dll
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\bin\Debug\net8.0-windows\FrmRegistration.pdb
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.Form1.resources
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.csproj.GenerateResource.cache
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.AssemblyInfoInputs.cache
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.AssemblyInfo.cs
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.dll
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\obj\Debug\net8.0-windows\refint\FrmRegistration.dll
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.pdb
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.genruntimeconfig.cache
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\obj\Debug\net8.0-windows\ref\FrmRegistration.dll
+C:\Users\Comlab1\source\repos\FrmRegistration\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.FrmConfirm.resources

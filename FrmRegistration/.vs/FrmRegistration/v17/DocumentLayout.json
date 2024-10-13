@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Comlab1\\source\\repos\\FrmRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD00C72-EDFA-4253-84D0-F935F6AF5D6F}|FrmRegistration\\FrmRegistration.csproj|c:\\users\\comlab1\\source\\repos\\frmregistration\\frmregistration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD00C72-EDFA-4253-84D0-F935F6AF5D6F}|FrmRegistration\\FrmRegistration.csproj|solutionrelative:frmregistration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD00C72-EDFA-4253-84D0-F935F6AF5D6F}|FrmRegistration\\FrmRegistration.csproj|C:\\Users\\Comlab1\\source\\repos\\FrmRegistration\\frmregistration\\frmconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AD00C72-EDFA-4253-84D0-F935F6AF5D6F}|FrmRegistration\\FrmRegistration.csproj|solutionrelative:frmregistration\\frmconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD00C72-EDFA-4253-84D0-F935F6AF5D6F}|FrmRegistration\\FrmRegistration.csproj|C:\\Users\\Comlab1\\source\\repos\\FrmRegistration\\frmregistration\\frmconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD00C72-EDFA-4253-84D0-F935F6AF5D6F}|FrmRegistration\\FrmRegistration.csproj|solutionrelative:frmregistration\\frmconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD00C72-EDFA-4253-84D0-F935F6AF5D6F}|FrmRegistration\\FrmRegistration.csproj|C:\\Users\\Comlab1\\source\\repos\\FrmRegistration\\frmregistration\\studentinfoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD00C72-EDFA-4253-84D0-F935F6AF5D6F}|FrmRegistration\\FrmRegistration.csproj|solutionrelative:frmregistration\\studentinfoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Comlab1\\source\\repos\\FrmRegistration\\FrmRegistration\\Form1.cs",
+              "RelativeDocumentMoniker": "FrmRegistration\\Form1.cs",
+              "ToolTip": "C:\\Users\\Comlab1\\source\\repos\\FrmRegistration\\FrmRegistration\\Form1.cs",
+              "RelativeToolTip": "FrmRegistration\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T10:29:13.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentInfoClass.cs",
+              "DocumentMoniker": "C:\\Users\\Comlab1\\source\\repos\\FrmRegistration\\FrmRegistration\\StudentInfoClass.cs",
+              "RelativeDocumentMoniker": "FrmRegistration\\StudentInfoClass.cs",
+              "ToolTip": "C:\\Users\\Comlab1\\source\\repos\\FrmRegistration\\FrmRegistration\\StudentInfoClass.cs",
+              "RelativeToolTip": "FrmRegistration\\StudentInfoClass.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T10:08:48.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmConfirm.cs",
+              "DocumentMoniker": "C:\\Users\\Comlab1\\source\\repos\\FrmRegistration\\FrmRegistration\\FrmConfirm.cs",
+              "RelativeDocumentMoniker": "FrmRegistration\\FrmConfirm.cs",
+              "ToolTip": "C:\\Users\\Comlab1\\source\\repos\\FrmRegistration\\FrmRegistration\\FrmConfirm.cs",
+              "RelativeToolTip": "FrmRegistration\\FrmConfirm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:33:07.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmConfirm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Comlab1\\source\\repos\\FrmRegistration\\FrmRegistration\\FrmConfirm.cs",
+              "RelativeDocumentMoniker": "FrmRegistration\\FrmConfirm.cs",
+              "ToolTip": "C:\\Users\\Comlab1\\source\\repos\\FrmRegistration\\FrmRegistration\\FrmConfirm.cs [Design]",
+              "RelativeToolTip": "FrmRegistration\\FrmConfirm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:27:53.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

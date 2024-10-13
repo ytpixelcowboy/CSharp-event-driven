@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Comlab1\\source\\repos\\OrganizationProfile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9189E3-E5EF-40F4-8855-1182E4D89AED}|OrganizationProfile\\OrganizationProfile.csproj|c:\\users\\comlab1\\source\\repos\\organizationprofile\\organizationprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9189E3-E5EF-40F4-8855-1182E4D89AED}|OrganizationProfile\\OrganizationProfile.csproj|solutionrelative:organizationprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9189E3-E5EF-40F4-8855-1182E4D89AED}|OrganizationProfile\\OrganizationProfile.csproj|c:\\users\\comlab1\\source\\repos\\organizationprofile\\organizationprofile\\frmconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B9189E3-E5EF-40F4-8855-1182E4D89AED}|OrganizationProfile\\OrganizationProfile.csproj|solutionrelative:organizationprofile\\frmconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9189E3-E5EF-40F4-8855-1182E4D89AED}|OrganizationProfile\\OrganizationProfile.csproj|c:\\users\\comlab1\\source\\repos\\organizationprofile\\organizationprofile\\frmconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9189E3-E5EF-40F4-8855-1182E4D89AED}|OrganizationProfile\\OrganizationProfile.csproj|solutionrelative:organizationprofile\\frmconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9189E3-E5EF-40F4-8855-1182E4D89AED}|OrganizationProfile\\OrganizationProfile.csproj|c:\\users\\comlab1\\source\\repos\\organizationprofile\\organizationprofile\\studentinformationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9189E3-E5EF-40F4-8855-1182E4D89AED}|OrganizationProfile\\OrganizationProfile.csproj|solutionrelative:organizationprofile\\studentinformationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9189E3-E5EF-40F4-8855-1182E4D89AED}|OrganizationProfile\\OrganizationProfile.csproj|c:\\users\\comlab1\\source\\repos\\organizationprofile\\organizationprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B9189E3-E5EF-40F4-8855-1182E4D89AED}|OrganizationProfile\\OrganizationProfile.csproj|solutionrelative:organizationprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Comlab1\\source\\repos\\OrganizationProfile\\OrganizationProfile\\Form1.cs",
+              "RelativeDocumentMoniker": "OrganizationProfile\\Form1.cs",
+              "ToolTip": "C:\\Users\\Comlab1\\source\\repos\\OrganizationProfile\\OrganizationProfile\\Form1.cs",
+              "RelativeToolTip": "OrganizationProfile\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:09:10.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Comlab1\\source\\repos\\OrganizationProfile\\OrganizationProfile\\Form1.cs",
+              "RelativeDocumentMoniker": "OrganizationProfile\\Form1.cs",
+              "ToolTip": "C:\\Users\\Comlab1\\source\\repos\\OrganizationProfile\\OrganizationProfile\\Form1.cs [Design]",
+              "RelativeToolTip": "OrganizationProfile\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:48:52.218Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmConfirmation.cs",
+              "DocumentMoniker": "C:\\Users\\Comlab1\\source\\repos\\OrganizationProfile\\OrganizationProfile\\frmConfirmation.cs",
+              "RelativeDocumentMoniker": "OrganizationProfile\\frmConfirmation.cs",
+              "ToolTip": "C:\\Users\\Comlab1\\source\\repos\\OrganizationProfile\\OrganizationProfile\\frmConfirmation.cs",
+              "RelativeToolTip": "OrganizationProfile\\frmConfirmation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:29:32.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmConfirmation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Comlab1\\source\\repos\\OrganizationProfile\\OrganizationProfile\\frmConfirmation.cs",
+              "RelativeDocumentMoniker": "OrganizationProfile\\frmConfirmation.cs",
+              "ToolTip": "C:\\Users\\Comlab1\\source\\repos\\OrganizationProfile\\OrganizationProfile\\frmConfirmation.cs [Design]",
+              "RelativeToolTip": "OrganizationProfile\\frmConfirmation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:25:15.075Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentInformationClass.cs",
+              "DocumentMoniker": "C:\\Users\\Comlab1\\source\\repos\\OrganizationProfile\\OrganizationProfile\\StudentInformationClass.cs",
+              "RelativeDocumentMoniker": "OrganizationProfile\\StudentInformationClass.cs",
+              "ToolTip": "C:\\Users\\Comlab1\\source\\repos\\OrganizationProfile\\OrganizationProfile\\StudentInformationClass.cs",
+              "RelativeToolTip": "OrganizationProfile\\StudentInformationClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:22:26.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

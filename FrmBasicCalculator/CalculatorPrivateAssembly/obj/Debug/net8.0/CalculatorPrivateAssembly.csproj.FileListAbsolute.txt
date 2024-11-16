@@ -1,0 +1,11 @@
+C:\Users\carlj\source\repos\FrmBasicCalculator\CalculatorPrivateAssembly\bin\Debug\net8.0\CalculatorPrivateAssembly.deps.json
+C:\Users\carlj\source\repos\FrmBasicCalculator\CalculatorPrivateAssembly\bin\Debug\net8.0\CalculatorPrivateAssembly.dll
+C:\Users\carlj\source\repos\FrmBasicCalculator\CalculatorPrivateAssembly\bin\Debug\net8.0\CalculatorPrivateAssembly.pdb
+C:\Users\carlj\source\repos\FrmBasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlj\source\repos\FrmBasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.AssemblyInfoInputs.cache
+C:\Users\carlj\source\repos\FrmBasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.AssemblyInfo.cs
+C:\Users\carlj\source\repos\FrmBasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\carlj\source\repos\FrmBasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.dll
+C:\Users\carlj\source\repos\FrmBasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\refint\CalculatorPrivateAssembly.dll
+C:\Users\carlj\source\repos\FrmBasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.pdb
+C:\Users\carlj\source\repos\FrmBasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\ref\CalculatorPrivateAssembly.dll
